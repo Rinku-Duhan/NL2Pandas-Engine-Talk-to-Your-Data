@@ -1,0 +1,23 @@
+# Environment variables & secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated outputs
+outputs/charts/*.png
+outputs/transcript.md
+
+# Custom datasets (keep samples if needed)
+data/*.csv
+data/*.xlsx
+!data/sample_sales.csv
+!data/sample_hr.csv

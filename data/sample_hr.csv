@@ -1,0 +1,501 @@
+Employee ID,Full Name,Department,Job Title,Gender,Hire Date,Salary,Performance Rating,Years Experience
+EMP-1001,Sarah Allen,Sales,Sales Representative,Female,2023-04-05,70600.0,4,2
+EMP-1002,Olivia Patel,Engineering,Software Engineer,Female,2017-08-10,88300.0,4,11
+EMP-1003,Sophia Patel,Human Resources,HR Business Partner,Female,2024-01-29,97700.0,4,1
+EMP-1004,Laura Wilson,Sales,Sales Representative,Female,2023-07-25,70400.0,2,3
+EMP-1005,David Wilson,Sales,Sales Director,Male,2015-06-27,151900.0,3,15
+EMP-1006,Laura Chang,Data Analytics,Data Scientist,Female,2021-12-08,142300.0,3,5
+EMP-1007,Sarah Hall,Human Resources,HR Business Partner,Female,2024-08-04,109600.0,4,1
+EMP-1008,Daniel Taylor,Finance,Senior Accountant,Male,2018-12-26,89900.0,4,7
+EMP-1009,Olivia Hall,Human Resources,HR Director,Female,2016-10-31,159200.0,3,11
+EMP-1010,Amanda Jenkins,Human Resources,Recruiter,Female,2019-07-02,80100.0,2,8
+EMP-1011,Robert Hall,Marketing,Marketing Manager,Male,2022-03-18,126000.0,2,6
+EMP-1012,Priya Allen,Data Analytics,Data Engineer,Female,2021-07-22,111800.0,4,6
+EMP-1013,Christopher Kim,Human Resources,HR Director,Male,2023-06-23,149700.0,4,2
+EMP-1014,Rachel Hall,Marketing,SEO Analyst,Female,2019-04-13,71600.0,5,10
+EMP-1015,Ethan Jenkins,Finance,Finance Director,Male,2024-12-03,145700.0,4,4
+EMP-1016,David Adams,Marketing,Marketing Specialist,Male,2023-02-05,69100.0,3,7
+EMP-1017,Sophia Chang,Finance,Senior Accountant,Female,2020-09-10,110300.0,3,8
+EMP-1018,James Brown,Data Analytics,BI Analyst,Male,2020-06-24,90000.0,2,5
+EMP-1019,Daniel Kim,Engineering,Software Engineer,Male,2015-11-19,115700.0,4,9
+EMP-1020,Sophia Rodriguez,Human Resources,HR Director,Female,2021-03-01,149000.0,3,5
+EMP-1021,Robert Brown,Finance,Finance Director,Male,2018-06-30,150100.0,5,10
+EMP-1022,Alex Brown,Marketing,Marketing Specialist,Male,2015-09-20,65000.0,1,11
+EMP-1023,Olivia Kim,Engineering,Software Engineer,Female,2015-08-30,109800.0,2,10
+EMP-1024,Amanda Chang,Data Analytics,BI Analyst,Female,2020-06-11,82000.0,3,6
+EMP-1025,Robert Taylor,Marketing,Marketing Specialist,Male,2022-05-23,61900.0,3,6
+EMP-1026,Alex Allen,Engineering,DevOps Engineer,Male,2022-03-31,124400.0,2,3
+EMP-1027,David Kim,Human Resources,Recruiter,Male,2016-07-28,73400.0,3,11
+EMP-1028,Robert Chang,Marketing,SEO Analyst,Male,2022-04-25,72400.0,4,7
+EMP-1029,Priya Rodriguez,Marketing,Marketing Manager,Female,2024-09-11,111800.0,5,3
+EMP-1030,Laura Jenkins,Marketing,Marketing Manager,Female,2023-10-21,127400.0,3,4
+EMP-1031,James Kim,Sales,Sales Representative,Male,2021-06-30,89200.0,3,9
+EMP-1032,Michael Jenkins,Data Analytics,Data Scientist,Male,2024-07-24,127600.0,3,4
+EMP-1033,Rachel Chang,Data Analytics,BI Analyst,Female,2017-08-21,91900.0,2,10
+EMP-1034,Olivia Lee,Engineering,DevOps Engineer,Female,2022-05-16,98700.0,3,7
+EMP-1035,Daniel Kim,Finance,Finance Director,Male,2017-12-23,155700.0,2,10
+EMP-1036,Alex Wilson,Engineering,Software Engineer,Male,2021-04-25,101000.0,2,4
+EMP-1037,Sophia Adams,Human Resources,HR Business Partner,Female,2024-11-10,106400.0,3,1
+EMP-1038,Megan Brown,Finance,Senior Accountant,Female,2024-01-19,103400.0,3,6
+EMP-1039,David Rodriguez,Sales,Sales Representative,Male,2023-04-29,87200.0,3,6
+EMP-1040,William Kim,Finance,Senior Accountant,Male,2022-02-10,91100.0,3,5
+EMP-1041,Michael Chang,Finance,Senior Accountant,Male,2015-06-30,109900.0,3,10
+EMP-1042,Jessica Rodriguez,Finance,Senior Accountant,Female,2019-10-18,101600.0,1,9
+EMP-1043,Rachel Brown,Engineering,Senior Software Engineer,Female,2016-08-29,143300.0,2,11
+EMP-1044,Christopher Jenkins,Sales,Sales Representative,Male,2022-06-24,82100.0,3,3
+EMP-1045,William Allen,Human Resources,Recruiter,Male,2023-12-21,81600.0,4,2
+EMP-1046,Rachel Allen,Sales,Account Executive,Female,2024-09-09,122100.0,4,5
+EMP-1047,James Allen,Engineering,Senior Software Engineer,Male,2024-08-17,154900.0,3,3
+EMP-1048,Christopher Adams,Human Resources,Recruiter,Male,2017-03-02,60600.0,3,11
+EMP-1049,Jessica Wilson,Finance,Finance Director,Female,2024-06-17,160000.0,3,5
+EMP-1050,Emily Adams,Human Resources,HR Director,Female,2017-12-23,168500.0,2,7
+EMP-1051,Christopher Allen,Sales,Account Executive,Male,2020-09-25,114200.0,3,4
+EMP-1052,Jessica Jenkins,Finance,Senior Accountant,Female,2024-01-17,85100.0,4,5
+EMP-1053,Amanda Patel,Engineering,DevOps Engineer,Female,2021-12-27,136400.0,4,5
+EMP-1054,Jessica Brown,Sales,Sales Director,Female,2019-07-07,158400.0,3,10
+EMP-1055,Priya Patel,Finance,Senior Accountant,Female,2016-12-13,105300.0,3,12
+EMP-1056,Ethan Jenkins,Sales,Account Executive,Male,2023-10-24,98400.0,4,5
+EMP-1057,Alex Taylor,Marketing,SEO Analyst,Male,2020-04-22,75300.0,3,10
+EMP-1058,Jessica Brown,Finance,Finance Director,Female,2016-01-18,171000.0,4,10
+EMP-1059,Priya Rodriguez,Engineering,Software Engineer,Female,2020-04-30,93600.0,4,9
+EMP-1060,Megan Patel,Finance,Finance Director,Female,2022-10-23,149700.0,3,5
+EMP-1061,Rachel Hall,Finance,Financial Analyst,Female,2024-08-25,101800.0,4,1
+EMP-1062,Rachel Allen,Data Analytics,Data Scientist,Female,2017-10-17,107300.0,3,7
+EMP-1063,Ethan Brown,Data Analytics,Data Scientist,Male,2024-12-30,147800.0,4,3
+EMP-1064,Ethan Taylor,Human Resources,HR Director,Male,2020-01-18,164500.0,4,7
+EMP-1065,Ethan Taylor,Finance,Financial Analyst,Male,2015-11-14,83200.0,3,14
+EMP-1066,Christopher Wilson,Data Analytics,BI Analyst,Male,2017-08-05,78500.0,4,10
+EMP-1067,Emily Patel,Marketing,Marketing Manager,Female,2019-08-31,114000.0,3,5
+EMP-1068,Brian Lee,Finance,Financial Analyst,Male,2023-08-02,100700.0,3,5
+EMP-1069,Amanda Adams,Marketing,Marketing Manager,Female,2023-03-29,113800.0,4,6
+EMP-1070,Megan Kim,Sales,Account Executive,Female,2019-05-12,109400.0,4,8
+EMP-1071,James Taylor,Human Resources,HR Director,Male,2019-06-02,151400.0,3,10
+EMP-1072,Emily Hall,Marketing,Marketing Specialist,Female,2017-01-14,77300.0,3,8
+EMP-1073,Robert Taylor,Sales,Account Executive,Male,2019-04-02,120400.0,4,8
+EMP-1074,Daniel Chang,Marketing,Marketing Specialist,Male,2015-08-02,75000.0,3,11
+EMP-1075,Sarah Jenkins,Human Resources,Recruiter,Female,2021-12-19,81000.0,3,4
+EMP-1076,David Lee,Human Resources,HR Business Partner,Male,2023-08-08,101000.0,3,3
+EMP-1077,Rachel Adams,Engineering,DevOps Engineer,Female,2018-07-01,96200.0,4,11
+EMP-1078,Brian Allen,Human Resources,Recruiter,Male,2024-04-25,74800.0,3,6
+EMP-1079,William Chang,Data Analytics,BI Analyst,Male,2019-10-21,83700.0,3,10
+EMP-1080,Michael Patel,Marketing,Marketing Specialist,Male,2019-01-23,68700.0,4,11
+EMP-1081,James Patel,Human Resources,HR Director,Male,2022-04-18,150900.0,4,5
+EMP-1082,Alex Patel,Finance,Finance Director,Male,2024-07-20,153400.0,4,1
+EMP-1083,Jessica Taylor,Human Resources,HR Business Partner,Female,2022-06-29,97100.0,3,6
+EMP-1084,Christopher Rodriguez,Marketing,Marketing Specialist,Male,2017-11-24,67100.0,3,9
+EMP-1085,Ethan Jenkins,Data Analytics,BI Analyst,Male,2023-01-28,77100.0,3,5
+EMP-1086,Megan Hall,Finance,Senior Accountant,Female,2015-03-12,98400.0,3,10
+EMP-1087,Robert Adams,Finance,Finance Director,Male,2021-03-17,158500.0,3,8
+EMP-1088,Christopher Allen,Marketing,Marketing Manager,Male,2017-08-02,105700.0,4,7
+EMP-1089,David Allen,Data Analytics,Data Engineer,Male,2017-06-05,108300.0,3,13
+EMP-1090,David Kim,Sales,Sales Representative,Male,2018-05-23,74000.0,4,7
+EMP-1091,Jessica Jenkins,Engineering,DevOps Engineer,Female,2016-06-01,108100.0,4,14
+EMP-1092,David Jenkins,Data Analytics,Data Scientist,Male,2019-12-10,126100.0,3,7
+EMP-1093,Jessica Taylor,Engineering,Software Engineer,Female,2015-10-31,99000.0,4,13
+EMP-1094,Rachel Rodriguez,Data Analytics,Data Scientist,Female,2017-10-13,108800.0,3,7
+EMP-1095,William Lee,Data Analytics,BI Analyst,Male,2019-04-08,94400.0,5,9
+EMP-1096,William Patel,Sales,Sales Director,Male,2021-11-02,167900.0,2,8
+EMP-1097,Priya Adams,Finance,Financial Analyst,Female,2016-12-12,79700.0,2,12
+EMP-1098,Laura Taylor,Finance,Finance Director,Female,2015-05-14,163500.0,3,11
+EMP-1099,Alex Chang,Finance,Financial Analyst,Male,2023-11-01,102700.0,3,6
+EMP-1100,Laura Chang,Data Analytics,BI Analyst,Female,2017-12-24,91200.0,2,8
+EMP-1101,Jessica Lee,Finance,Finance Director,Female,2019-12-04,186100.0,3,5
+EMP-1102,Brian Adams,Data Analytics,Data Engineer,Male,2015-11-26,122200.0,1,13
+EMP-1103,Christopher Lee,Sales,Sales Representative,Male,2022-07-24,67300.0,3,6
+EMP-1104,Jessica Lee,Engineering,Software Engineer,Female,2022-04-22,101500.0,5,6
+EMP-1105,Olivia Patel,Finance,Senior Accountant,Female,2020-04-09,114100.0,3,7
+EMP-1106,David Rodriguez,Sales,Account Executive,Male,2018-03-26,117700.0,5,12
+EMP-1107,Megan Chang,Sales,Account Executive,Female,2023-08-31,102900.0,4,4
+EMP-1108,Sophia Taylor,Marketing,Marketing Specialist,Female,2019-01-21,63800.0,4,10
+EMP-1109,Michael Kim,Sales,Sales Director,Male,2018-03-25,145900.0,4,10
+EMP-1110,David Jenkins,Finance,Finance Director,Male,2022-12-17,180000.0,3,3
+EMP-1111,Sophia Patel,Engineering,Software Engineer,Female,2016-04-09,119700.0,5,12
+EMP-1112,Megan Allen,Sales,Sales Director,Female,2019-08-29,171700.0,5,8
+EMP-1113,Megan Brown,Human Resources,HR Business Partner,Female,2021-09-21,85700.0,4,7
+EMP-1114,Emily Adams,Marketing,Marketing Manager,Female,2020-09-10,127700.0,4,6
+EMP-1115,Daniel Lee,Data Analytics,Data Engineer,Male,2016-08-31,122000.0,3,11
+EMP-1116,Christopher Brown,Data Analytics,Data Scientist,Male,2018-08-11,125500.0,5,7
+EMP-1117,Olivia Patel,Human Resources,HR Business Partner,Female,2023-05-09,81300.0,4,5
+EMP-1118,Brian Hall,Finance,Financial Analyst,Male,2015-06-01,89900.0,3,11
+EMP-1119,David Taylor,Engineering,DevOps Engineer,Male,2015-03-04,136000.0,2,15
+EMP-1120,Emily Taylor,Sales,Account Executive,Female,2019-06-17,114900.0,2,11
+EMP-1121,Ethan Patel,Sales,Sales Director,Male,2023-07-08,172300.0,4,4
+EMP-1122,Olivia Chang,Human Resources,HR Director,Female,2018-03-23,157400.0,4,8
+EMP-1123,David Hall,Finance,Financial Analyst,Male,2022-10-13,88300.0,5,4
+EMP-1124,Amanda Jenkins,Sales,Account Executive,Female,2016-08-19,105000.0,3,9
+EMP-1125,Rachel Rodriguez,Engineering,DevOps Engineer,Female,2021-12-13,134200.0,3,8
+EMP-1126,Priya Taylor,Finance,Senior Accountant,Female,2022-06-24,98800.0,4,3
+EMP-1127,Daniel Hall,Data Analytics,BI Analyst,Male,2018-11-16,76800.0,3,10
+EMP-1128,Daniel Taylor,Sales,Sales Representative,Male,2024-07-27,90000.0,2,3
+EMP-1129,William Wilson,Data Analytics,Data Scientist,Male,2018-04-24,149700.0,5,7
+EMP-1130,Daniel Jenkins,Data Analytics,Data Engineer,Male,2015-07-20,135000.0,4,13
+EMP-1131,Robert Lee,Sales,Sales Representative,Male,2021-12-18,80900.0,4,5
+EMP-1132,Emily Hall,Finance,Financial Analyst,Female,2019-12-11,84300.0,3,5
+EMP-1133,Emily Adams,Sales,Sales Director,Female,2017-04-02,158700.0,4,9
+EMP-1134,Ethan Brown,Sales,Sales Representative,Male,2024-03-31,71400.0,5,4
+EMP-1135,Christopher Chang,Marketing,Marketing Specialist,Male,2017-07-13,62800.0,4,12
+EMP-1136,Ethan Wilson,Engineering,Senior Software Engineer,Male,2021-01-06,120600.0,3,4
+EMP-1137,William Patel,Finance,Senior Accountant,Male,2017-08-15,88300.0,1,10
+EMP-1138,William Kim,Finance,Financial Analyst,Male,2020-03-16,94100.0,3,10
+EMP-1139,David Rodriguez,Engineering,Software Engineer,Male,2020-07-10,95700.0,2,4
+EMP-1140,Laura Taylor,Sales,Sales Director,Female,2022-10-23,182700.0,3,6
+EMP-1141,Laura Hall,Engineering,Senior Software Engineer,Female,2018-02-19,144600.0,4,7
+EMP-1142,Megan Taylor,Human Resources,HR Business Partner,Female,2022-09-09,83000.0,3,4
+EMP-1143,Michael Patel,Sales,Sales Representative,Male,2024-07-05,89200.0,2,3
+EMP-1144,Olivia Jenkins,Engineering,Senior Software Engineer,Female,2016-05-30,129700.0,3,13
+EMP-1145,Olivia Kim,Human Resources,HR Business Partner,Female,2023-11-05,103200.0,1,5
+EMP-1146,Rachel Brown,Sales,Sales Representative,Female,2024-09-18,67700.0,2,1
+EMP-1147,Robert Lee,Sales,Sales Representative,Male,2015-08-03,69400.0,4,10
+EMP-1148,Emily Taylor,Marketing,Marketing Manager,Female,2016-03-22,113000.0,3,12
+EMP-1149,Sophia Adams,Marketing,SEO Analyst,Female,2015-09-07,94100.0,4,12
+EMP-1150,David Taylor,Finance,Senior Accountant,Male,2015-11-27,87200.0,4,11
+EMP-1151,Rachel Adams,Data Analytics,Data Engineer,Female,2022-12-26,126300.0,3,4
+EMP-1152,Alex Brown,Data Analytics,Data Scientist,Male,2022-11-14,109500.0,4,2
+EMP-1153,Laura Taylor,Human Resources,HR Business Partner,Female,2020-02-01,90200.0,3,8
+EMP-1154,Amanda Patel,Sales,Sales Director,Female,2016-09-17,151500.0,5,13
+EMP-1155,Emily Chang,Engineering,Senior Software Engineer,Female,2023-04-15,123900.0,4,4
+EMP-1156,Olivia Brown,Data Analytics,Data Scientist,Female,2019-08-10,135200.0,4,7
+EMP-1157,Michael Adams,Data Analytics,Data Scientist,Male,2021-06-25,120800.0,3,8
+EMP-1158,Robert Chang,Sales,Sales Director,Male,2023-07-21,156500.0,3,3
+EMP-1159,Ethan Lee,Data Analytics,Data Engineer,Male,2015-04-18,128900.0,5,14
+EMP-1160,Michael Rodriguez,Sales,Sales Director,Male,2018-10-23,174300.0,1,8
+EMP-1161,Olivia Hall,Marketing,Marketing Specialist,Female,2022-02-06,62800.0,2,3
+EMP-1162,Laura Patel,Marketing,Marketing Manager,Female,2018-06-30,100500.0,3,12
+EMP-1163,Sarah Rodriguez,Human Resources,HR Director,Female,2015-12-01,132000.0,3,11
+EMP-1164,Alex Lee,Marketing,Marketing Manager,Male,2023-06-20,104600.0,2,6
+EMP-1165,David Adams,Finance,Finance Director,Male,2020-11-28,169700.0,3,9
+EMP-1166,Laura Lee,Engineering,Software Engineer,Female,2017-05-15,92200.0,4,9
+EMP-1167,Christopher Chang,Engineering,Senior Software Engineer,Male,2016-12-20,149900.0,3,9
+EMP-1168,Sophia Brown,Finance,Senior Accountant,Female,2024-08-30,87200.0,1,5
+EMP-1169,Megan Chang,Sales,Sales Director,Female,2019-07-15,159300.0,4,10
+EMP-1170,David Patel,Engineering,Senior Software Engineer,Male,2021-12-06,126900.0,4,6
+EMP-1171,David Patel,Engineering,Software Engineer,Male,2019-06-29,100200.0,2,10
+EMP-1172,Christopher Kim,Sales,Sales Representative,Male,2022-02-06,66900.0,3,3
+EMP-1173,Amanda Wilson,Finance,Finance Director,Female,2017-08-25,180800.0,2,7
+EMP-1174,Rachel Lee,Human Resources,HR Director,Female,2023-09-01,133000.0,3,6
+EMP-1175,William Hall,Finance,Finance Director,Male,2022-01-13,156200.0,3,5
+EMP-1176,Megan Taylor,Finance,Senior Accountant,Female,2021-08-19,108900.0,3,3
+EMP-1177,Jessica Taylor,Marketing,Marketing Specialist,Female,2024-04-29,61100.0,2,3
+EMP-1178,Olivia Lee,Data Analytics,Data Scientist,Female,2021-03-20,125800.0,4,9
+EMP-1179,William Hall,Human Resources,HR Business Partner,Male,2020-08-15,98200.0,5,5
+EMP-1180,David Wilson,Finance,Financial Analyst,Male,2016-12-07,90100.0,3,8
+EMP-1181,Alex Brown,Data Analytics,Data Engineer,Male,2019-03-08,107100.0,3,8
+EMP-1182,William Jenkins,Finance,Finance Director,Male,2018-09-12,156700.0,3,6
+EMP-1183,Daniel Adams,Finance,Finance Director,Male,2021-10-04,188200.0,3,4
+EMP-1184,Amanda Adams,Finance,Finance Director,Female,2016-06-12,173100.0,4,13
+EMP-1185,Jessica Brown,Marketing,SEO Analyst,Female,2024-02-13,89800.0,4,2
+EMP-1186,Laura Brown,Sales,Sales Representative,Female,2017-01-08,74100.0,3,9
+EMP-1187,Robert Kim,Human Resources,Recruiter,Male,2024-06-20,61900.0,3,1
+EMP-1188,Amanda Lee,Human Resources,HR Director,Female,2016-10-26,145100.0,4,9
+EMP-1189,Megan Jenkins,Marketing,Marketing Manager,Female,2017-08-30,118700.0,4,10
+EMP-1190,Robert Brown,Human Resources,HR Business Partner,Male,2023-10-18,109000.0,5,4
+EMP-1191,Amanda Hall,Data Analytics,Data Scientist,Female,2018-02-28,125800.0,3,10
+EMP-1192,James Kim,Data Analytics,BI Analyst,Male,2015-08-02,96800.0,3,14
+EMP-1193,Ethan Chang,Finance,Finance Director,Male,2018-03-13,182600.0,4,7
+EMP-1194,Alex Brown,Human Resources,HR Business Partner,Male,2017-06-28,82800.0,4,11
+EMP-1195,Laura Jenkins,Marketing,SEO Analyst,Female,2019-05-01,79300.0,3,6
+EMP-1196,Amanda Chang,Finance,Finance Director,Female,2016-08-21,156800.0,1,9
+EMP-1197,James Allen,Marketing,Marketing Manager,Male,2015-11-21,116500.0,3,9
+EMP-1198,Sophia Allen,Data Analytics,Data Engineer,Female,2023-09-15,119000.0,3,3
+EMP-1199,Sarah Kim,Marketing,SEO Analyst,Female,2020-02-16,89800.0,2,5
+EMP-1200,William Brown,Engineering,DevOps Engineer,Male,2017-09-17,118200.0,2,12
+EMP-1201,Michael Lee,Sales,Sales Representative,Male,2017-02-06,79300.0,4,13
+EMP-1202,David Brown,Data Analytics,Data Engineer,Male,2020-09-10,135400.0,1,8
+EMP-1203,Michael Hall,Marketing,Marketing Manager,Male,2015-03-08,103900.0,4,12
+EMP-1204,Robert Allen,Finance,Finance Director,Male,2021-07-11,145200.0,4,8
+EMP-1205,Sarah Wilson,Data Analytics,Data Scientist,Female,2016-12-18,141600.0,3,13
+EMP-1206,James Rodriguez,Engineering,DevOps Engineer,Male,2020-02-18,129900.0,3,5
+EMP-1207,Priya Jenkins,Sales,Account Executive,Female,2024-02-22,110600.0,3,5
+EMP-1208,Priya Adams,Sales,Sales Representative,Female,2018-09-21,86600.0,2,8
+EMP-1209,Brian Patel,Finance,Senior Accountant,Male,2019-05-03,111800.0,5,8
+EMP-1210,Alex Wilson,Data Analytics,Data Scientist,Male,2023-02-26,141100.0,2,5
+EMP-1211,Sophia Adams,Sales,Sales Representative,Female,2022-05-31,67000.0,3,5
+EMP-1212,James Allen,Marketing,Marketing Manager,Male,2023-02-25,110600.0,4,4
+EMP-1213,Daniel Hall,Engineering,Software Engineer,Male,2019-07-22,108500.0,3,7
+EMP-1214,Sarah Rodriguez,Data Analytics,Data Engineer,Female,2015-05-23,135200.0,2,11
+EMP-1215,Christopher Patel,Data Analytics,BI Analyst,Male,2022-08-13,90100.0,5,5
+EMP-1216,Alex Chang,Data Analytics,BI Analyst,Male,2019-06-19,88200.0,4,8
+EMP-1217,Emily Jenkins,Finance,Financial Analyst,Female,2019-05-05,90000.0,2,10
+EMP-1218,Alex Kim,Data Analytics,Data Scientist,Male,2020-07-04,136200.0,2,5
+EMP-1219,Megan Rodriguez,Finance,Senior Accountant,Female,2024-02-02,114900.0,5,6
+EMP-1220,Christopher Allen,Engineering,DevOps Engineer,Male,2024-12-29,119400.0,4,2
+EMP-1221,Amanda Brown,Human Resources,Recruiter,Female,2023-11-19,84600.0,3,2
+EMP-1222,Michael Wilson,Data Analytics,Data Engineer,Male,2024-01-05,116600.0,2,5
+EMP-1223,Emily Adams,Marketing,SEO Analyst,Female,2020-11-23,88000.0,4,7
+EMP-1224,Rachel Wilson,Finance,Financial Analyst,Female,2022-08-17,88500.0,3,6
+EMP-1225,Rachel Patel,Data Analytics,BI Analyst,Female,2020-10-23,95800.0,3,5
+EMP-1226,Amanda Allen,Human Resources,HR Business Partner,Female,2020-10-26,108400.0,4,6
+EMP-1227,Robert Hall,Data Analytics,Data Scientist,Male,2018-05-25,110600.0,3,11
+EMP-1228,Olivia Lee,Human Resources,Recruiter,Female,2023-01-30,76500.0,3,6
+EMP-1229,Sarah Chang,Engineering,DevOps Engineer,Female,2017-12-20,129700.0,3,12
+EMP-1230,William Hall,Engineering,Senior Software Engineer,Male,2021-02-12,155600.0,4,6
+EMP-1231,Alex Kim,Finance,Senior Accountant,Male,2015-10-26,93900.0,2,14
+EMP-1232,Brian Taylor,Marketing,Marketing Specialist,Male,2016-08-11,66800.0,4,10
+EMP-1233,Christopher Patel,Human Resources,HR Business Partner,Male,2016-03-10,95400.0,3,11
+EMP-1234,Jessica Taylor,Human Resources,Recruiter,Female,2018-04-03,62400.0,4,10
+EMP-1235,Robert Rodriguez,Sales,Sales Director,Male,2017-02-16,172500.0,3,9
+EMP-1236,Alex Adams,Marketing,Marketing Specialist,Male,2019-05-30,61800.0,3,10
+EMP-1237,Priya Lee,Sales,Sales Representative,Female,2020-07-20,66300.0,4,8
+EMP-1238,Daniel Brown,Engineering,Software Engineer,Male,2024-11-23,100100.0,4,2
+EMP-1239,Christopher Jenkins,Marketing,Marketing Specialist,Male,2017-03-08,71400.0,3,10
+EMP-1240,Laura Brown,Marketing,SEO Analyst,Female,2021-12-27,77000.0,4,8
+EMP-1241,Emily Patel,Sales,Account Executive,Female,2019-02-06,112300.0,3,7
+EMP-1242,Ethan Jenkins,Engineering,Software Engineer,Male,2018-09-26,89800.0,3,9
+EMP-1243,Olivia Brown,Human Resources,HR Business Partner,Female,2018-07-28,107900.0,3,7
+EMP-1244,William Wilson,Data Analytics,Data Engineer,Male,2022-12-12,124000.0,3,6
+EMP-1245,Amanda Wilson,Finance,Financial Analyst,Female,2021-07-18,104400.0,4,5
+EMP-1246,Olivia Taylor,Sales,Sales Director,Female,2023-09-15,175200.0,3,5
+EMP-1247,Olivia Taylor,Human Resources,HR Director,Female,2021-12-13,155200.0,2,6
+EMP-1248,Sarah Lee,Finance,Financial Analyst,Female,2019-12-12,80700.0,3,7
+EMP-1249,Robert Patel,Data Analytics,Data Engineer,Male,2024-10-15,141400.0,4,5
+EMP-1250,Sophia Kim,Data Analytics,Data Scientist,Female,2020-05-13,149900.0,3,9
+EMP-1251,Megan Brown,Sales,Sales Director,Female,2023-08-29,155900.0,4,6
+EMP-1252,William Taylor,Human Resources,Recruiter,Male,2018-05-07,67000.0,5,8
+EMP-1253,Daniel Allen,Human Resources,HR Director,Male,2018-07-22,158200.0,3,9
+EMP-1254,Daniel Chang,Data Analytics,Data Engineer,Male,2019-06-05,124400.0,5,8
+EMP-1255,Jessica Jenkins,Sales,Sales Director,Female,2019-12-17,143600.0,3,10
+EMP-1256,Robert Kim,Data Analytics,Data Scientist,Male,2022-10-22,147000.0,2,4
+EMP-1257,Priya Jenkins,Finance,Finance Director,Female,2017-08-11,151300.0,2,7
+EMP-1258,Alex Chang,Finance,Financial Analyst,Male,2021-03-04,75200.0,3,5
+EMP-1259,Alex Hall,Human Resources,HR Business Partner,Male,2022-03-30,89600.0,5,3
+EMP-1260,Olivia Kim,Data Analytics,Data Engineer,Female,2015-06-02,132500.0,3,11
+EMP-1261,Sarah Patel,Marketing,Marketing Specialist,Female,2024-10-12,78700.0,4,2
+EMP-1262,Jessica Lee,Data Analytics,BI Analyst,Female,2018-10-04,98200.0,3,8
+EMP-1263,James Brown,Marketing,Marketing Manager,Male,2016-04-06,101700.0,3,11
+EMP-1264,Daniel Allen,Human Resources,Recruiter,Male,2023-11-13,78400.0,3,3
+EMP-1265,Rachel Lee,Finance,Senior Accountant,Female,2020-10-11,109800.0,2,6
+EMP-1266,Rachel Rodriguez,Marketing,Marketing Manager,Female,2015-01-28,127800.0,3,12
+EMP-1267,Daniel Wilson,Sales,Sales Director,Male,2015-02-16,172500.0,4,12
+EMP-1268,Sarah Hall,Engineering,Senior Software Engineer,Female,2019-07-19,132300.0,3,10
+EMP-1269,David Hall,Sales,Account Executive,Male,2017-06-16,114600.0,3,9
+EMP-1270,William Wilson,Marketing,SEO Analyst,Male,2020-04-12,83700.0,4,9
+EMP-1271,Priya Hall,Data Analytics,BI Analyst,Female,2020-12-03,88100.0,3,9
+EMP-1272,Sarah Brown,Data Analytics,BI Analyst,Female,2016-09-05,89300.0,3,9
+EMP-1273,David Hall,Human Resources,HR Director,Male,2016-01-08,153300.0,3,13
+EMP-1274,Megan Rodriguez,Data Analytics,Data Scientist,Female,2015-08-25,125600.0,3,13
+EMP-1275,Michael Patel,Sales,Sales Representative,Male,2021-06-26,83600.0,1,4
+EMP-1276,David Brown,Engineering,Software Engineer,Male,2020-04-17,119500.0,3,5
+EMP-1277,Rachel Hall,Finance,Finance Director,Female,2019-03-14,188200.0,3,9
+EMP-1278,Brian Chang,Finance,Finance Director,Male,2016-06-28,183700.0,4,14
+EMP-1279,Rachel Brown,Marketing,SEO Analyst,Female,2017-07-01,73200.0,4,8
+EMP-1280,Alex Hall,Finance,Finance Director,Male,2019-04-03,161200.0,3,7
+EMP-1281,James Adams,Human Resources,HR Director,Male,2015-05-12,160600.0,3,15
+EMP-1282,Priya Kim,Engineering,Software Engineer,Female,2020-01-03,105800.0,4,9
+EMP-1283,Priya Allen,Engineering,Senior Software Engineer,Female,2021-01-19,137600.0,4,5
+EMP-1284,Rachel Brown,Sales,Sales Representative,Female,2023-03-16,85400.0,3,6
+EMP-1285,Robert Adams,Human Resources,HR Director,Male,2019-08-21,150900.0,3,7
+EMP-1286,Laura Brown,Marketing,Marketing Specialist,Female,2022-03-20,79400.0,3,8
+EMP-1287,Brian Patel,Human Resources,HR Business Partner,Male,2023-06-18,91300.0,3,6
+EMP-1288,Jessica Allen,Human Resources,HR Business Partner,Female,2021-04-22,107400.0,5,7
+EMP-1289,Laura Kim,Sales,Sales Representative,Female,2015-11-20,73300.0,4,12
+EMP-1290,Sophia Allen,Human Resources,Recruiter,Female,2022-07-22,66700.0,4,6
+EMP-1291,Priya Lee,Finance,Finance Director,Female,2020-05-17,167900.0,4,6
+EMP-1292,Daniel Jenkins,Human Resources,Recruiter,Male,2016-04-25,84100.0,5,14
+EMP-1293,Robert Allen,Data Analytics,Data Engineer,Male,2017-09-07,109200.0,3,11
+EMP-1294,Brian Taylor,Data Analytics,Data Engineer,Male,2017-12-07,116200.0,3,9
+EMP-1295,Alex Chang,Finance,Senior Accountant,Male,2018-08-04,107800.0,3,7
+EMP-1296,Michael Lee,Human Resources,HR Director,Male,2017-12-04,135800.0,5,11
+EMP-1297,Daniel Rodriguez,Human Resources,HR Business Partner,Male,2021-05-22,86900.0,3,5
+EMP-1298,Daniel Taylor,Finance,Finance Director,Male,2020-03-02,177000.0,4,6
+EMP-1299,James Rodriguez,Finance,Finance Director,Male,2024-12-21,164400.0,5,4
+EMP-1300,Sophia Jenkins,Engineering,DevOps Engineer,Female,2015-01-27,97200.0,2,13
+EMP-1301,Emily Allen,Human Resources,Recruiter,Female,2020-02-11,65500.0,2,7
+EMP-1302,Alex Jenkins,Engineering,DevOps Engineer,Male,2015-02-18,119800.0,3,10
+EMP-1303,Ethan Adams,Engineering,DevOps Engineer,Male,2022-07-23,131600.0,4,5
+EMP-1304,Emily Chang,Data Analytics,BI Analyst,Female,2021-12-13,81000.0,3,7
+EMP-1305,Daniel Patel,Engineering,Senior Software Engineer,Male,2020-02-24,158400.0,3,9
+EMP-1306,Jessica Hall,Engineering,DevOps Engineer,Female,2022-04-15,139600.0,2,3
+EMP-1307,Brian Brown,Marketing,Marketing Specialist,Male,2022-11-18,72700.0,2,3
+EMP-1308,Christopher Lee,Engineering,DevOps Engineer,Male,2017-07-30,136400.0,5,8
+EMP-1309,Daniel Jenkins,Engineering,DevOps Engineer,Male,2021-02-02,136700.0,4,8
+EMP-1310,Amanda Jenkins,Human Resources,HR Director,Female,2024-03-15,135800.0,4,6
+EMP-1311,Jessica Rodriguez,Data Analytics,BI Analyst,Female,2024-07-11,89200.0,4,3
+EMP-1312,Brian Allen,Human Resources,HR Director,Male,2020-08-13,159000.0,5,9
+EMP-1313,Emily Patel,Human Resources,Recruiter,Female,2023-08-16,68500.0,5,5
+EMP-1314,Christopher Jenkins,Finance,Senior Accountant,Male,2020-01-20,108500.0,3,8
+EMP-1315,Brian Rodriguez,Finance,Finance Director,Male,2015-12-18,173000.0,3,13
+EMP-1316,Emily Chang,Sales,Sales Representative,Female,2023-10-16,74500.0,3,6
+EMP-1317,Christopher Wilson,Engineering,Software Engineer,Male,2018-06-16,85200.0,3,10
+EMP-1318,David Rodriguez,Engineering,Software Engineer,Male,2021-03-31,100100.0,3,8
+EMP-1319,Sarah Chang,Sales,Sales Director,Female,2021-09-15,144200.0,4,5
+EMP-1320,Jessica Patel,Marketing,Marketing Specialist,Female,2021-04-10,74500.0,3,5
+EMP-1321,Laura Rodriguez,Human Resources,HR Business Partner,Female,2020-07-12,89000.0,2,5
+EMP-1322,Daniel Patel,Sales,Account Executive,Male,2019-01-19,121300.0,5,8
+EMP-1323,William Lee,Human Resources,HR Business Partner,Male,2018-06-01,83200.0,5,7
+EMP-1324,William Patel,Sales,Account Executive,Male,2024-02-23,103400.0,5,6
+EMP-1325,Jessica Wilson,Data Analytics,Data Engineer,Female,2018-07-10,109000.0,5,7
+EMP-1326,Daniel Allen,Finance,Finance Director,Male,2021-06-16,164600.0,3,5
+EMP-1327,Brian Wilson,Engineering,DevOps Engineer,Male,2021-02-12,104000.0,4,5
+EMP-1328,Megan Allen,Human Resources,HR Business Partner,Female,2024-04-27,103900.0,2,6
+EMP-1329,Alex Rodriguez,Finance,Senior Accountant,Male,2022-05-21,92300.0,4,4
+EMP-1330,David Taylor,Data Analytics,Data Scientist,Male,2020-12-28,131200.0,5,8
+EMP-1331,Ethan Jenkins,Sales,Sales Director,Male,2021-01-08,180300.0,4,8
+EMP-1332,Emily Kim,Finance,Finance Director,Female,2022-04-04,157800.0,1,7
+EMP-1333,Christopher Patel,Engineering,Software Engineer,Male,2017-06-28,88500.0,4,12
+EMP-1334,Megan Wilson,Marketing,Marketing Manager,Female,2021-08-07,122000.0,3,8
+EMP-1335,Michael Taylor,Engineering,Senior Software Engineer,Male,2015-12-18,136600.0,4,9
+EMP-1336,Amanda Adams,Sales,Account Executive,Female,2020-11-04,121400.0,3,7
+EMP-1337,Megan Allen,Finance,Senior Accountant,Female,2018-05-14,94600.0,4,7
+EMP-1338,Sarah Wilson,Finance,Financial Analyst,Female,2016-11-04,95300.0,3,13
+EMP-1339,Sophia Rodriguez,Sales,Sales Director,Female,2020-03-07,159200.0,4,6
+EMP-1340,Rachel Hall,Finance,Senior Accountant,Female,2023-04-09,96900.0,4,6
+EMP-1341,William Patel,Marketing,Marketing Specialist,Male,2017-04-22,74100.0,4,10
+EMP-1342,Olivia Chang,Data Analytics,BI Analyst,Female,2017-03-18,84100.0,2,11
+EMP-1343,Ethan Hall,Sales,Sales Director,Male,2019-05-27,157500.0,2,10
+EMP-1344,Alex Lee,Human Resources,HR Director,Male,2018-05-03,158200.0,3,11
+EMP-1345,Amanda Chang,Human Resources,HR Business Partner,Female,2019-03-10,83500.0,2,11
+EMP-1346,Brian Lee,Human Resources,HR Director,Male,2017-01-30,145300.0,4,11
+EMP-1347,Sophia Rodriguez,Marketing,Marketing Manager,Female,2018-07-12,99900.0,4,9
+EMP-1348,Michael Taylor,Human Resources,Recruiter,Male,2021-04-19,80400.0,4,8
+EMP-1349,Alex Patel,Finance,Senior Accountant,Male,2015-12-05,99700.0,1,13
+EMP-1350,Jessica Jenkins,Sales,Sales Representative,Female,2016-11-19,78400.0,3,11
+EMP-1351,Ethan Brown,Engineering,DevOps Engineer,Male,2023-09-10,100100.0,4,5
+EMP-1352,Ethan Jenkins,Finance,Senior Accountant,Male,2019-10-08,101400.0,4,5
+EMP-1353,Jessica Jenkins,Marketing,Marketing Manager,Female,2024-02-28,107200.0,3,1
+EMP-1354,Priya Kim,Finance,Finance Director,Female,2024-08-27,174500.0,4,5
+EMP-1355,James Lee,Human Resources,Recruiter,Male,2024-01-13,80300.0,3,1
+EMP-1356,William Brown,Human Resources,HR Business Partner,Male,2018-04-13,109400.0,3,9
+EMP-1357,Rachel Patel,Engineering,Senior Software Engineer,Female,2016-06-03,154700.0,4,14
+EMP-1358,Rachel Allen,Sales,Sales Representative,Female,2022-08-01,84000.0,3,5
+EMP-1359,Brian Patel,Marketing,Marketing Specialist,Male,2024-11-13,72700.0,3,1
+EMP-1360,Christopher Taylor,Marketing,Marketing Manager,Male,2024-09-29,115400.0,2,5
+EMP-1361,Christopher Chang,Data Analytics,Data Scientist,Male,2019-10-26,114800.0,3,6
+EMP-1362,Daniel Wilson,Data Analytics,Data Engineer,Male,2024-07-23,105900.0,4,3
+EMP-1363,Sarah Chang,Finance,Senior Accountant,Female,2024-08-13,85500.0,3,1
+EMP-1364,Laura Kim,Finance,Financial Analyst,Female,2018-05-21,101500.0,4,8
+EMP-1365,David Hall,Sales,Account Executive,Male,2022-06-14,93300.0,3,8
+EMP-1366,Daniel Allen,Finance,Financial Analyst,Male,2016-01-09,87900.0,2,14
+EMP-1367,Megan Chang,Human Resources,HR Director,Female,2022-08-17,139000.0,1,5
+EMP-1368,David Patel,Finance,Financial Analyst,Male,2017-07-26,89300.0,2,10
+EMP-1369,Emily Wilson,Sales,Account Executive,Female,2023-09-04,95500.0,4,2
+EMP-1370,Emily Brown,Data Analytics,BI Analyst,Female,2016-11-03,90300.0,3,11
+EMP-1371,Rachel Patel,Data Analytics,Data Engineer,Female,2017-06-08,119900.0,4,8
+EMP-1372,Emily Lee,Finance,Senior Accountant,Female,2019-10-25,95500.0,4,7
+EMP-1373,Jessica Hall,Engineering,Software Engineer,Female,2021-09-23,104400.0,4,8
+EMP-1374,Jessica Kim,Data Analytics,Data Engineer,Female,2023-05-22,122900.0,3,5
+EMP-1375,Priya Taylor,Marketing,Marketing Specialist,Female,2022-02-26,64800.0,2,7
+EMP-1376,Amanda Wilson,Human Resources,HR Business Partner,Female,2021-05-17,105800.0,3,7
+EMP-1377,Megan Chang,Engineering,DevOps Engineer,Female,2017-12-09,98000.0,1,8
+EMP-1378,Laura Brown,Sales,Sales Director,Female,2023-08-09,172100.0,3,4
+EMP-1379,David Hall,Data Analytics,Data Engineer,Male,2018-02-10,127700.0,3,7
+EMP-1380,Rachel Brown,Sales,Account Executive,Female,2023-07-24,113500.0,4,6
+EMP-1381,Jessica Allen,Marketing,SEO Analyst,Female,2017-09-04,93800.0,3,7
+EMP-1382,David Taylor,Data Analytics,Data Engineer,Male,2022-06-21,102500.0,4,8
+EMP-1383,Emily Jenkins,Finance,Financial Analyst,Female,2016-11-02,96000.0,5,11
+EMP-1384,James Wilson,Human Resources,HR Director,Male,2018-01-05,161200.0,4,12
+EMP-1385,Amanda Patel,Sales,Sales Director,Female,2022-12-27,142900.0,4,6
+EMP-1386,Alex Brown,Sales,Sales Representative,Male,2021-05-10,77500.0,3,5
+EMP-1387,David Lee,Finance,Finance Director,Male,2023-04-23,145800.0,1,6
+EMP-1388,Priya Jenkins,Marketing,Marketing Manager,Female,2016-09-06,108400.0,5,9
+EMP-1389,Sophia Allen,Finance,Finance Director,Female,2018-08-11,161000.0,3,7
+EMP-1390,Daniel Chang,Data Analytics,Data Scientist,Male,2022-07-20,110400.0,3,2
+EMP-1391,Laura Chang,Marketing,Marketing Manager,Female,2018-06-26,122100.0,2,9
+EMP-1392,Michael Wilson,Human Resources,HR Business Partner,Male,2018-05-29,96900.0,4,12
+EMP-1393,Christopher Lee,Marketing,Marketing Specialist,Male,2021-02-16,74600.0,3,5
+EMP-1394,Michael Kim,Data Analytics,Data Scientist,Male,2022-10-11,133600.0,5,2
+EMP-1395,Laura Allen,Finance,Senior Accountant,Female,2020-12-10,88100.0,3,5
+EMP-1396,Rachel Allen,Sales,Sales Representative,Female,2017-08-06,66100.0,3,11
+EMP-1397,Alex Allen,Engineering,DevOps Engineer,Male,2016-06-30,99300.0,4,14
+EMP-1398,Olivia Lee,Engineering,Senior Software Engineer,Female,2016-06-19,146500.0,3,10
+EMP-1399,Brian Allen,Finance,Senior Accountant,Male,2018-01-18,94500.0,2,8
+EMP-1400,Rachel Lee,Engineering,Software Engineer,Female,2020-01-16,88700.0,3,8
+EMP-1401,Sophia Wilson,Human Resources,HR Business Partner,Female,2017-12-21,89200.0,2,7
+EMP-1402,William Jenkins,Human Resources,HR Business Partner,Male,2022-12-22,84400.0,5,3
+EMP-1403,Ethan Jenkins,Finance,Senior Accountant,Male,2016-12-13,92800.0,5,8
+EMP-1404,Ethan Allen,Data Analytics,BI Analyst,Male,2016-02-22,77400.0,2,10
+EMP-1405,Priya Rodriguez,Human Resources,HR Business Partner,Female,2022-01-25,91200.0,2,8
+EMP-1406,David Jenkins,Engineering,Software Engineer,Male,2019-12-22,116600.0,2,6
+EMP-1407,David Jenkins,Marketing,Marketing Specialist,Male,2021-06-08,63400.0,4,7
+EMP-1408,Alex Jenkins,Marketing,SEO Analyst,Male,2018-12-20,80700.0,5,7
+EMP-1409,Daniel Taylor,Human Resources,Recruiter,Male,2021-12-02,75400.0,4,4
+EMP-1410,Brian Brown,Marketing,Marketing Specialist,Male,2019-04-18,61800.0,3,7
+EMP-1411,Sophia Jenkins,Marketing,SEO Analyst,Female,2021-02-08,79000.0,3,7
+EMP-1412,Brian Adams,Human Resources,Recruiter,Male,2017-06-16,68000.0,4,8
+EMP-1413,Michael Taylor,Data Analytics,Data Scientist,Male,2017-08-11,139500.0,2,8
+EMP-1414,Jessica Brown,Finance,Financial Analyst,Female,2017-06-17,97900.0,4,12
+EMP-1415,Christopher Rodriguez,Human Resources,Recruiter,Male,2024-01-16,74800.0,4,6
+EMP-1416,Amanda Lee,Data Analytics,BI Analyst,Female,2017-02-10,89100.0,3,11
+EMP-1417,Megan Jenkins,Engineering,Software Engineer,Female,2017-06-15,93100.0,3,8
+EMP-1418,Amanda Lee,Human Resources,Recruiter,Female,2016-12-27,68500.0,2,10
+EMP-1419,Olivia Allen,Human Resources,Recruiter,Female,2024-08-26,81200.0,5,2
+EMP-1420,Brian Lee,Engineering,Senior Software Engineer,Male,2016-07-12,132100.0,4,9
+EMP-1421,Alex Hall,Sales,Sales Representative,Male,2021-04-20,82700.0,4,9
+EMP-1422,Robert Hall,Data Analytics,BI Analyst,Male,2023-03-26,84500.0,3,7
+EMP-1423,Sarah Allen,Data Analytics,Data Scientist,Female,2023-08-24,143300.0,1,5
+EMP-1424,William Kim,Finance,Finance Director,Male,2020-07-25,145200.0,3,5
+EMP-1425,Priya Wilson,Sales,Sales Representative,Female,2015-12-30,80900.0,4,14
+EMP-1426,Alex Jenkins,Sales,Sales Representative,Male,2015-10-05,71200.0,3,11
+EMP-1427,Sarah Jenkins,Marketing,Marketing Manager,Female,2016-11-12,120600.0,3,11
+EMP-1428,Christopher Brown,Marketing,Marketing Specialist,Male,2023-11-05,76600.0,4,5
+EMP-1429,Rachel Taylor,Engineering,Software Engineer,Female,2018-07-29,95300.0,5,8
+EMP-1430,Amanda Rodriguez,Marketing,Marketing Specialist,Female,2021-02-18,74600.0,3,4
+EMP-1431,Michael Patel,Finance,Financial Analyst,Male,2019-11-14,93200.0,2,6
+EMP-1432,Robert Kim,Marketing,SEO Analyst,Male,2023-03-09,83900.0,3,6
+EMP-1433,Daniel Kim,Engineering,Software Engineer,Male,2021-03-01,98800.0,3,7
+EMP-1434,Michael Patel,Engineering,Senior Software Engineer,Male,2022-01-04,153000.0,3,7
+EMP-1435,Sarah Kim,Human Resources,HR Director,Female,2015-12-02,141700.0,4,12
+EMP-1436,Brian Taylor,Marketing,SEO Analyst,Male,2022-03-14,76600.0,3,7
+EMP-1437,Brian Wilson,Human Resources,HR Business Partner,Male,2019-12-07,81300.0,3,8
+EMP-1438,William Jenkins,Human Resources,HR Director,Male,2015-12-18,156700.0,3,14
+EMP-1439,William Kim,Data Analytics,BI Analyst,Male,2024-03-06,96000.0,3,5
+EMP-1440,William Kim,Marketing,Marketing Manager,Male,2024-07-29,97800.0,1,5
+EMP-1441,Emily Taylor,Human Resources,Recruiter,Female,2024-01-25,84300.0,2,2
+EMP-1442,David Hall,Marketing,Marketing Specialist,Male,2022-01-13,79900.0,4,4
+EMP-1443,Christopher Allen,Engineering,Software Engineer,Male,2019-06-16,98600.0,3,10
+EMP-1444,Ethan Taylor,Engineering,DevOps Engineer,Male,2020-11-10,123000.0,2,7
+EMP-1445,Rachel Lee,Data Analytics,Data Engineer,Female,2016-02-15,134100.0,3,9
+EMP-1446,Jessica Brown,Sales,Account Executive,Female,2022-05-06,100600.0,3,6
+EMP-1447,Michael Rodriguez,Sales,Account Executive,Male,2021-10-29,95800.0,4,8
+EMP-1448,Laura Wilson,Finance,Financial Analyst,Female,2020-04-30,76500.0,4,7
+EMP-1449,Amanda Adams,Sales,Account Executive,Female,2024-08-16,123700.0,4,5
+EMP-1450,Rachel Adams,Finance,Senior Accountant,Female,2018-08-07,108200.0,4,8
+EMP-1451,Priya Taylor,Human Resources,HR Business Partner,Female,2023-07-08,102200.0,4,5
+EMP-1452,Sophia Rodriguez,Engineering,Senior Software Engineer,Female,2019-07-11,148400.0,4,6
+EMP-1453,Rachel Kim,Human Resources,Recruiter,Female,2020-02-13,66200.0,5,5
+EMP-1454,Jessica Wilson,Marketing,SEO Analyst,Female,2016-05-22,79900.0,1,14
+EMP-1455,Alex Lee,Marketing,Marketing Specialist,Male,2020-04-27,79200.0,3,9
+EMP-1456,James Adams,Finance,Finance Director,Male,2015-04-23,144500.0,1,13
+EMP-1457,Priya Hall,Human Resources,HR Director,Female,2022-04-22,138300.0,3,6
+EMP-1458,Megan Rodriguez,Finance,Financial Analyst,Female,2015-02-04,93000.0,3,11
+EMP-1459,Daniel Patel,Marketing,Marketing Manager,Male,2017-06-12,111100.0,3,11
+EMP-1460,William Chang,Engineering,DevOps Engineer,Male,2024-06-16,140000.0,3,3
+EMP-1461,Daniel Hall,Engineering,Senior Software Engineer,Male,2018-02-06,122600.0,3,12
+EMP-1462,Daniel Hall,Finance,Finance Director,Male,2016-09-06,154900.0,4,12
+EMP-1463,Olivia Patel,Finance,Senior Accountant,Female,2023-02-02,105400.0,4,2
+EMP-1464,Daniel Patel,Marketing,Marketing Manager,Male,2021-07-16,120800.0,5,8
+EMP-1465,Amanda Allen,Finance,Financial Analyst,Female,2022-02-27,95600.0,5,6
+EMP-1466,Ethan Adams,Human Resources,HR Director,Male,2017-01-11,165100.0,2,10
+EMP-1467,Jessica Allen,Data Analytics,BI Analyst,Female,2018-10-06,98700.0,2,11
+EMP-1468,Robert Allen,Sales,Account Executive,Male,2018-09-19,121500.0,3,8
+EMP-1469,Alex Chang,Marketing,Marketing Specialist,Male,2021-07-18,77300.0,5,7
+EMP-1470,Megan Kim,Data Analytics,BI Analyst,Female,2019-04-13,96700.0,3,10
+EMP-1471,Rachel Rodriguez,Human Resources,HR Business Partner,Female,2021-05-21,92300.0,2,7
+EMP-1472,Emily Taylor,Sales,Sales Director,Female,2018-07-07,184400.0,2,11
+EMP-1473,Daniel Kim,Human Resources,HR Director,Male,2020-06-28,160600.0,2,5
+EMP-1474,Brian Patel,Marketing,Marketing Manager,Male,2015-06-04,108400.0,3,14
+EMP-1475,Michael Wilson,Data Analytics,BI Analyst,Male,2015-01-17,75400.0,4,15
+EMP-1476,Amanda Adams,Human Resources,Recruiter,Female,2021-08-08,69600.0,3,5
+EMP-1477,Jessica Adams,Marketing,SEO Analyst,Female,2020-11-16,83000.0,3,6
+EMP-1478,Amanda Taylor,Sales,Sales Representative,Female,2024-02-08,69100.0,1,4
+EMP-1479,Rachel Kim,Finance,Financial Analyst,Female,2016-11-23,92700.0,3,8
+EMP-1480,Laura Hall,Sales,Sales Director,Female,2021-08-29,168000.0,4,3
+EMP-1481,Sarah Allen,Engineering,Senior Software Engineer,Female,2016-05-21,137800.0,3,13
+EMP-1482,Priya Allen,Finance,Finance Director,Female,2019-09-20,140500.0,2,10
+EMP-1483,William Lee,Finance,Financial Analyst,Male,2016-03-05,87600.0,4,13
+EMP-1484,Jessica Chang,Engineering,Senior Software Engineer,Female,2017-03-29,127900.0,4,10
+EMP-1485,Amanda Allen,Marketing,Marketing Manager,Female,2021-02-23,100600.0,5,7
+EMP-1486,Christopher Kim,Engineering,Software Engineer,Male,2016-03-28,108500.0,4,13
+EMP-1487,Emily Brown,Engineering,DevOps Engineer,Female,2017-11-14,127600.0,3,12
+EMP-1488,Daniel Taylor,Engineering,Software Engineer,Male,2024-10-20,113500.0,4,1
+EMP-1489,Christopher Patel,Finance,Financial Analyst,Male,2023-07-03,77800.0,1,2
+EMP-1490,Rachel Wilson,Sales,Account Executive,Female,2018-01-03,128200.0,2,12
+EMP-1491,James Chang,Marketing,Marketing Manager,Male,2018-01-18,128700.0,4,10
+EMP-1492,Brian Hall,Human Resources,Recruiter,Male,2023-02-23,63300.0,5,2
+EMP-1493,Emily Patel,Data Analytics,Data Scientist,Female,2022-08-10,141100.0,3,5
+EMP-1494,Christopher Lee,Engineering,DevOps Engineer,Male,2023-02-26,134600.0,3,3
+EMP-1495,David Patel,Marketing,Marketing Specialist,Male,2022-05-06,61300.0,1,5
+EMP-1496,Amanda Brown,Data Analytics,Data Engineer,Female,2016-01-26,131500.0,4,12
+EMP-1497,Megan Wilson,Finance,Finance Director,Female,2016-08-31,172100.0,4,12
+EMP-1498,Sarah Hall,Human Resources,HR Director,Female,2024-07-21,164000.0,4,3
+EMP-1499,Megan Wilson,Human Resources,HR Business Partner,Female,2015-07-26,109100.0,3,13
+EMP-1500,Brian Kim,Engineering,Senior Software Engineer,Male,2021-06-05,137800.0,2,7
