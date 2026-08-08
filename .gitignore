@@ -12,9 +12,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Generated outputs
-outputs/charts/*.png
-outputs/transcript.md
 
 # Custom datasets (keep samples if needed)
 data/*.csv
