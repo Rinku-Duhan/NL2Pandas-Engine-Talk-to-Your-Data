@@ -18,6 +18,9 @@ Analyzing spreadsheets usually requires writing complex Excel formulas or Python
 Whether you are looking at sales reports, employee records, or inventory lists, you can just ask questions in normal language and get verified answers.
 
 ---
+> **Agent Capability Statement:**  
+> My agent takes a **natural language question and a CSV/Excel dataset** and produces a **verified numerical answer, evidence table, and chart visualization using deterministic Pandas execution.**
+
 
 ## 💡 Key Design Decisions: Why We Built It This Way
 
